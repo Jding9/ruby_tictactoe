@@ -95,7 +95,3 @@ end
 
 game = Game.new()
 
-
-p Game.board[0]
-p Game.board[1]
-p Game.board[2]
